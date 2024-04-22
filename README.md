@@ -1,7 +1,5 @@
 ## Hi there!, I'm Petyo.
 
-![](https://i.imgur.com/TOMywsR.png)
-
 I am a front-end developer. I love making beautiful and responsive web applications. I have worked with HTML, CSS, and JavaScript. I have also used front-end frameworks like AngularJS and React. I am familiar with TailwindCSS, a CSS framework that helps me build custom designs fast. 
 
 I enjoy learning new things and keeping up with the latest web development trends and technologies. You can see some of my recent projects on my GitHub repositories. If you have any questions or want to say hi, you can contact me on LinkedIn. I'm always happy to connect with other developers and share ideas. 

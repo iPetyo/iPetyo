@@ -1,3 +1,11 @@
+## Hi there!, I'm Petyo.
+
+![](https://i.imgur.com/TOMywsR.png)
+
+I am a front-end developer. I love making beautiful and responsive web applications. I have worked with HTML, CSS, and JavaScript. I have also used front-end frameworks like AngularJS and React. I am familiar with TailwindCSS, a CSS framework that helps me build custom designs fast. 
+
+I enjoy learning new things and keeping up with the latest web development trends and technologies. You can see some of my recent projects on my GitHub repositories. If you have any questions or want to say hi, you can contact me on LinkedIn. I'm always happy to connect with other developers and share ideas. 
+
 
 ## 🚀💻 Technologies & Tools
 
@@ -28,6 +36,8 @@
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS logo" title="AngularJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
@@ -76,9 +86,5 @@
 ## By the way here are some of my statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=iPetyo&show_icons=true&theme=tokyonight)
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iPetyo&theme=tokyonight&layout=compact)
-
-🌱 I’m currently learning android in dicoding.com with kotlin
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 

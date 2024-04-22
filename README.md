@@ -72,9 +72,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petyoivov/) 
 
 
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=iPetyo&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="akash-chowrasia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iPetyo&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+## By the way here are some of my statistics 🚀
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=iPetyo&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iPetyo&theme=tokyonight&layout=compact)
+
+🌱 I’m currently learning android in dicoding.com with kotlin
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
